@@ -19,4 +19,5 @@
 
 ## bugs, questions and issues
 
-Please file your bug reports and questions back to the [original repository](https://github.com/Keeyees/CH341A-Manual-NEW-JP/issues)
+Please file your bug reports and questions back to the [original repository](https://github.com/Keeyees/CH341A-Manual-NEW-JP/issues).
+
